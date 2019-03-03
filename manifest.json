@@ -1,11 +1,17 @@
 {
     "manifest_version": 2,
   
-    "name": "test.av",
+    "name": "chauffeur.av",
     "description": "This extension can track the price you've been follow and notice if it's has lower price",
     "version": "1.0",
 
-    
+    "browser_action": {
+        "default_icon": "./images/icon.png",
+        "default_popup": "./src/popup/popup.html"
+      },
+
+
+
     "permissions": [
       "tabs",
       "activeTab",
