@@ -1,0 +1,1 @@
+{"version":3,"file":"js/background.js","sources":["webpack:///src/background/index.js"],"sourcesContent":["console.log('background!')\n\n\n\n// WEBPACK FOOTER //\n// src/background/index.js"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;;;A","sourceRoot":""}
